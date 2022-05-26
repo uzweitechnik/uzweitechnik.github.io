@@ -14,11 +14,16 @@ author: max troendle
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "kontakt"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Kontakt: "aboutme"
+  Anleitungen:
+    - Blitzmaschine: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Assets: 
+    - Kameras: "kamera"
+    - Laptops: "laptops"
+    - IPads: "ipads"
+    - Sound: "sound"
+    - Licht: "licht"
 
 # --- Logo --- #
 
