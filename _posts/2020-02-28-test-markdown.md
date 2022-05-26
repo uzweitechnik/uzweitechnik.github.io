@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Hallo Welt!
+subtitle: Der erste Eintrag :)
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Die ist ein Testpost um zu sehen ob Posts funktionieren.
 
-**Here is some bold text**
+**Fettgedruckter Text**
 
 ## Here is a secondary heading
 
-Here's a useless table:
+Eine Tabelle die niemanden interessiert:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -23,16 +23,15 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-
-How about a yummy crepe?
+Ein Foto:
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
+Das ganze zentriert!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+Code geht auch:
 
 ~~~
 var foo = function(x) {
@@ -41,7 +40,7 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+Syntax:
 
 ```javascript
 var foo = function(x) {
