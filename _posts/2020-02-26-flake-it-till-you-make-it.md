@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To: ACER Projector 
+title: How To - ACER Projector 
 subtitle: Flake it till you make it
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
