@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Der große Medienraum
+title: Der grosse Medienraum
 subtitle: Einführung
 tags: [iMac, 3D Druck, Reprostation, Drucken]
 ---
