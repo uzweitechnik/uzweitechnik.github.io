@@ -14,10 +14,10 @@ author: max troendle
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Whats new?: "#"
   Kontakt: "aboutme"
   Anleitungen:
     - Blitzmaschine: "#"
-    - Learn markdown: "#"
   Assets: 
     - Kameras: "kamera"
     - Laptops: "laptops"
