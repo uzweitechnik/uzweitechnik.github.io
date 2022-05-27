@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Über mich
-subtitle: Was du über mich wissen solltest
+title: Kontakt
+subtitle: Wie du mich erreichen kannst?
 ---
 
-Mein Name ist Max Tröndle. 
+Donnerstags von 16-19 Uhr auf der UZWEI.
+Mail: max@rekorder.org
+Tel: +4917681661806
