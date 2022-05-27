@@ -14,7 +14,7 @@ author: max troendle
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Whats new?: "#"
+  Whats new?: "whatsnew"
   Kontakt: "aboutme"
   Anleitungen:
     - Blitzmaschine: "#"
